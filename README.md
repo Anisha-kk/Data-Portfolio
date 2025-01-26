@@ -32,4 +32,8 @@ Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, d
 [**Sales Report using Power BI**](https://github.com/Anisha-kk/Power-BI-visualizations)
 <br>In this project, a set of Power BI reports are created to perform various analyses.
 <br clear="left"/>
-
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIW9FQYDgc9CjxgEE59kS-2qwO_OQ5Rfi5wg&s" align="left" width="200px"/>
+[**Temperature Data Analysis**](https://github.com/Anisha-kk/SQL-and-Tableau-Viz)
+<br> An SQL and Tableau exercise made using average temperature data of Bengaluru city collected from 1990 - 2022.
+<br clear="left"/>
