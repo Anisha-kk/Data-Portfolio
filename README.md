@@ -23,6 +23,11 @@ Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, d
 <br>Using K Means clustering to group a dataset of penguins.
 <br clear="left"/>
 <br>
+<img src="https://miro.medium.com/v2/resize:fit:372/1*AO2rIhzRYzFVQlFLx9DM9A.png" align="left" width="200px"/>
+[**Digit Classification**](https://github.com/Anisha-kk/Digit-Classification)
+<br>This code explores digit classification using the MNIST dataset using Logistic Regression, Logistic regression + pca and neural network 
+<br clear="left"/>
+<br>
 <img src="https://www.miquido.com/wp-content/uploads/2022/08/header-Top-8-market-research-methods-1920x1280.png" align="left" width="200px"/>
 [**Sales Report using Power BI**](https://github.com/Anisha-kk/Power-BI-visualizations)
 <br>In this project, a set of Power BI reports are created to perform various analyses.
