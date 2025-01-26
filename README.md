@@ -18,9 +18,9 @@ Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, d
 <br> 3. Random forest vs XGBoost classification on Newyork TLC data
 <br clear="left"/>
 <br>
-<img src="https://www.miquido.com/wp-content/uploads/2022/08/header-Top-8-market-research-methods-1920x1280.png" align="left" width="200px"/>
-[**Sales Report using Power BI**](https://github.com/Anisha-kk/Power-BI-visualizations)
-<br>In this project, a set of Power BI reports are created to perform various analyses.
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*rAyjSZrMxEo3hzzX_jQaxA.png" align="left" width="200px"/>
+[**K-Means Clustering on Penguin Data**](https://github.com/Anisha-kk/K-Means-clustering-on-Penguins-data)
+<br>Using K Means clustering to group a dataset of penguins.
 <br clear="left"/>
 <br>
 <img src="https://www.miquido.com/wp-content/uploads/2022/08/header-Top-8-market-research-methods-1920x1280.png" align="left" width="200px"/>
