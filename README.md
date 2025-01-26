@@ -7,6 +7,11 @@ Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, d
 <br>The project focuses on the use of influencer marketing, and exploring the relationship between marketing promotional budgets and sales. 
 <br clear="left"/>
 <br>
+<img src="https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2023/11/06110959/aqi_mini-1200x675-1.png" align="left" width="200px"/>
+[**Air Quality Index Data Analysis**](https://github.com/Anisha-kk/Confidence-Interval-and-Hypothesis-testing-on-AQI-data)
+<br>This activity uses air quality index (AQI) data from the United States Environmental Protection Agency (EPA). Using Confidence intervals and hypothesis testing, this data is explored. 
+<br clear="left"/>
+<br>
 <img src="https://www.helloleads.io/blog/wp-content/uploads/2020/10/quit.png" align="left" width="200px"/>
 [**Predicting Employee Attrition**](https://github.com/Anisha-kk/Logistic-Regression-for-Salifort-Motors-HR-data)
 <br>The goal of this project is to use Logistic Regression to predict whether an employee will quit the fictious multinational vehicle manufacturing company called Salifort Motors. 
