@@ -10,4 +10,9 @@ Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, d
 [**Emotion Detection from Text**](https://github.com/Anisha-kk/Emotion-detection-from-text)
 <br>In this project, a text string is taken as input and the dominant emotion is given as the output. 
 <br clear="left"/>
+<br>
+<img src="https://www.miquido.com/wp-content/uploads/2022/08/header-Top-8-market-research-methods-1920x1280.png" align="left" width="200px"/>
+[**Sales Report using Power BI**](https://github.com/Anisha-kk/Power-BI-visualizations)
+<br>In this project, a set of Power BI reports are created to perform various analyses.
+<br clear="left"/>
 
