@@ -41,7 +41,7 @@ Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, d
 <br>
 <img src="https://www.miquido.com/wp-content/uploads/2022/08/header-Top-8-market-research-methods-1920x1280.png" align="left" width="200px"/>
 [**Sales Report using Power BI**](https://github.com/Anisha-kk/Power-BI-visualizations)
-<br>In this project, a set of Power BI reports are created to perform various analyses.
+<br>In this project, Power BI is used to create sales reports to perform various analyses for a fictious company.
 <br clear="left"/>
 <br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIW9FQYDgc9CjxgEE59kS-2qwO_OQ5Rfi5wg&s" align="left" width="200px"/>
