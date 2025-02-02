@@ -4,7 +4,7 @@ Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, d
 <br>
 <img src="https://pimwp.s3-accelerate.amazonaws.com/2022/06/influencermarketing.png" align="left" width="200px"/>
 [**Influencer Marketing Analysis**](https://github.com/Anisha-kk/Linear-Regression-and-ANOVA-testing-on-marketing-and-sales-data)
-<br>The project focuses on the use of influencer marketing, and exploring the relationship between marketing promotional budgets and sales. 
+<br>The project focuses on the use of influencer marketing, and exploring the relationship between marketing promotional budgets and sales. Linear regression is used here. 
 <br clear="left"/>
 <br>
 <img src="https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2023/11/06110959/aqi_mini-1200x675-1.png" align="left" width="200px"/>
@@ -19,7 +19,7 @@ Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, d
 <br>
 <img src="https://www.zonkafeedback.com/hubfs/emotion%20detection.png" align="left" width="200px"/>
 [**Emotion Detection from Text**](https://github.com/Anisha-kk/Emotion-detection-from-text)
-<br>In this project, a text string is taken as input and the dominant emotion is given as the output. 
+<br>In this project, a text string is taken as input and the dominant emotion is given as the output. This project uses Python and Flask.
 <br clear="left"/>
 <br>
 <img src="https://eastgate-software.com/wp-content/uploads/2023/10/supervised-learning.png" align="left" width="200px"/>
