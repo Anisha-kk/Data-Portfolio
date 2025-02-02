@@ -24,9 +24,9 @@ Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, d
 <br>
 <img src="https://eastgate-software.com/wp-content/uploads/2023/10/supervised-learning.png" align="left" width="200px"/>
 [**Supervised Machine Learning Algorithms Examples**](https://github.com/Anisha-kk/Machine-Learning-Supervised-Learning-Algorithms-exampless)
-<br> 1. Naive Bayes Classification on NBA players data
-<br> 2. Decision tree Classification on Airline data
-<br> 3. Random forest vs XGBoost classification on Newyork TLC data
+<br> 1. [Naive Bayes Classification on NBA players data](https://github.com/Anisha-kk/Machine-Learning-Supervised-Learning-Algorithms-exampless/tree/954a14edca9f3c1df91ffdbcbc8b4127fbd0c25d/1.%20Naive%20Bayes%20Classification%20on%20NBA%20players%20data)
+<br> 2. [Decision tree Classification on Airline data](https://github.com/Anisha-kk/Machine-Learning-Supervised-Learning-Algorithms-exampless/tree/954a14edca9f3c1df91ffdbcbc8b4127fbd0c25d/2.%20Decision%20tree%20classification%20of%20Airline%20data)
+<br> 3. [Random forest vs XGBoost classification on Newyork TLC data](https://github.com/Anisha-kk/Machine-Learning-Supervised-Learning-Algorithms-exampless/tree/954a14edca9f3c1df91ffdbcbc8b4127fbd0c25d/3.%20Random%20forest%20vs%20XGBoost%20classification%20on%20Newyork%20TLC%20data)
 <br clear="left"/>
 <br>
 <img src="https://miro.medium.com/v2/resize:fit:1200/1*rAyjSZrMxEo3hzzX_jQaxA.png" align="left" width="200px"/>
