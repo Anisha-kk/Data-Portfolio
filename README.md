@@ -1,5 +1,5 @@
 # Data-Portfolio
-Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, dance, play badminton and chess.<br>
+Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, dance, listen to music, play badminton and chess.<br>
 <br>As part of my upskilling, I have done the following Data Science and Data Analysis projects....<br>
 <br>
 <img src="https://pimwp.s3-accelerate.amazonaws.com/2022/06/influencermarketing.png" align="left" width="200px"/>
