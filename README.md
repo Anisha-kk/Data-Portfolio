@@ -7,6 +7,11 @@ Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, d
 <br>The project focuses on the use of influencer marketing, and exploring the relationship between marketing promotional budgets and sales. Linear regression is used here. 
 <br clear="left"/>
 <br>
+<img src="https://cdn.vectorstock.com/i/1000v/54/94/text-math-with-formula-border-background-vector-48965494.jpg" align="left" width="200px"/>
+[**Student Math Score Calculator**](https://github.com/Anisha-kk/End-To-End-Data-Science-Project)
+<br>The project creates a REST API using Python and Flask to predict the Math Score of a Student.
+<br clear="left"/>
+<br>
 <img src="https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2023/11/06110959/aqi_mini-1200x675-1.png" align="left" width="200px"/>
 [**Air Quality Index Data Analysis**](https://github.com/Anisha-kk/Confidence-Interval-and-Hypothesis-testing-on-AQI-data)
 <br>This activity uses air quality index (AQI) data from the United States Environmental Protection Agency (EPA). Using Confidence intervals and hypothesis testing, this data is explored. 
