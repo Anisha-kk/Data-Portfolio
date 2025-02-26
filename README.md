@@ -2,6 +2,11 @@
 Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, dance, listen to music, play badminton and chess.<br>
 <br>As part of my upskilling, I have done the following Data Science and Data Analysis projects....<br>
 <br>
+<img src="https://appinventiv.com/wp-content/uploads/2021/12/How-Machine-Learning-Helps-in-Financial-Fraud-Detection-in-the-FinTech-Industry-01-scaled.webp" align="left" width="200px"/>
+[Bank Transaction Analysis](https://github.com/Anisha-kk/Bank-Transaction-Data-Analysis.git)
+<br>This project analyses historical transaction data (simulated) to identify unusual patterns or anomalies that might indicate fraudulent activities. 
+<br clear="left"/>
+<br>
 <img src="https://www.omegahospitals.com/blog/storage/2024/01/blog_breast_cancer_11-e1705062587725.png" align="left" width="200px"/>
 [Breast Cancer Classification](https://github.com/Anisha-kk/Breast-cancer-data-analysis)
 <br>The project compares the performance of different classification algorithms on Scikit Learn Breast Cancer dataset. 
