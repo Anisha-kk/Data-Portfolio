@@ -4,7 +4,7 @@ Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, d
 <br>
 <img src="https://github.com/user-attachments/assets/4e55bfd1-3ed8-4244-b6d2-27f521179b20" align="left" width="200px"/>
 [American Sign Language Identifier](https://github.com/Anisha-kk/American-Sign-Language-Classifier)
-<br>This project identifies American Sign Language alphabet from images. 
+<br>A multiclass image classification problem that identifies American Sign Language alphabet from images. 
 <br clear="left"/>
 <br>
 <img src="https://appinventiv.com/wp-content/uploads/2021/12/How-Machine-Learning-Helps-in-Financial-Fraud-Detection-in-the-FinTech-Industry-01-scaled.webp" align="left" width="200px"/>
