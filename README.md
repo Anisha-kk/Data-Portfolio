@@ -1,6 +1,6 @@
-# Data-Portfolio
-Hi..I am Anisha. I am an aspiring Data Scientist. I also love to read fiction, dance, listen to music, play badminton and chess.<br>
-<br>As part of my upskilling, I have done the following Data Science and Data Analysis projects....<br>
+# Portfolio
+Hi..I am Anisha. I am an aspiring Data Scientist / Sofware Engineer. I also love to read fiction, dance, listen to music, play badminton and chess.<br>
+<br>As part of my upskilling, I have done the following projects....<br>
 <br>
 <img src="https://github.com/user-attachments/assets/4e55bfd1-3ed8-4244-b6d2-27f521179b20" align="left" width="200px"/>
 [American Sign Language Identifier](https://github.com/Anisha-kk/American-Sign-Language-Classifier)
