@@ -2,7 +2,7 @@
 Hi..I am Anisha. I am an aspiring Data Scientist / Sofware Engineer. I also love to read fiction, dance, listen to music, play badminton and chess.<br>
 <br>As part of my upskilling, I have done the following projects....<br>
 <br>
-<img src="https://github.com/Anisha-kk/Fastapi-taskmanager/blob/main/Screenshot%20(4944).png", align="left" width="200px"/>
+<img src="https://github.com/Anisha-kk/Fastapi-taskmanager/blob/main/Screenshot%20(4944).png" align="left" width="200px"/>
 [Task Manager](https://github.com/Anisha-kk/Fastapi-taskmanager)
 <br>The Task Manager REST API is a backend service built with FastAPI that allows users to register, log in, and manage their personal tasks. 
 <br clear="left"/>
