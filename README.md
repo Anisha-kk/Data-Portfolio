@@ -2,6 +2,11 @@
 Hi..I am Anisha. I am an aspiring Data Scientist / Sofware Engineer. I also love to read fiction, dance, listen to music, play badminton and chess.<br>
 <br>As part of my upskilling, I have done the following projects....<br>
 <br>
+<img src="https://github.com/Anisha-kk/Fastapi-taskmanager/blob/main/Screenshot%20(4944).png", align="left" width="200px"/>
+[Task Manager](https://github.com/Anisha-kk/Fastapi-taskmanager)
+<br>The Task Manager REST API is a backend service built with FastAPI that allows users to register, log in, and manage their personal tasks. 
+<br clear="left"/>
+<br>
 <img src="https://github.com/user-attachments/assets/4e55bfd1-3ed8-4244-b6d2-27f521179b20" align="left" width="200px"/>
 [American Sign Language Identifier](https://github.com/Anisha-kk/American-Sign-Language-Classifier)
 <br>A multiclass image classification problem that identifies American Sign Language alphabet from images. 
