@@ -1,5 +1,10 @@
 # Data Science, Machine Learning, Deep Learning Projects
 <br>
+<img src="https://github.com/user-attachments/assets/45727e22-713b-4923-bdd7-3e51133ec5e3" align="left" width="200px"/>
+[Lung Cancer Detection using CNN](https://github.com/Anisha-kk/Lung-Cancer-Detection-using-CNN)
+<br>A multiclass image classification problem that identifies normal and 2 types of cancer from lung tissue images. 
+<br clear="left"/>
+<br>
 <img src="https://github.com/user-attachments/assets/4e55bfd1-3ed8-4244-b6d2-27f521179b20" align="left" width="200px"/>
 [American Sign Language Identifier](https://github.com/Anisha-kk/American-Sign-Language-Classifier)
 <br>A multiclass image classification problem that identifies American Sign Language alphabet from images. 
