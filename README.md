@@ -1,70 +1,90 @@
 # Data Science, Machine Learning, Deep Learning Projects
 <br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRnXA2WkyzJezZsENoOPcQk_6YFUGlQsW-wg&s" align="left" width="200px"/>
+<b>Content based Book Recommendation System</b> 
+<br>(https://github.com/Anisha-kk/Book-Recommendation-System)
+<br>A book recommendation system that suggest similar books based on book features.
+<br clear="left"/>
+<br>
 <img src="https://github.com/user-attachments/assets/45727e22-713b-4923-bdd7-3e51133ec5e3" align="left" width="200px"/>
-[Lung Cancer Detection using CNN](https://github.com/Anisha-kk/Lung-Cancer-Detection-using-CNN)
+<b>Lung Cancer Detection using CNN</b> 
+<br>(https://github.com/Anisha-kk/Lung-Cancer-Detection-using-CNN)
 <br>A multiclass image classification problem that identifies normal and 2 types of cancer from lung tissue images. 
 <br clear="left"/>
 <br>
 <img src="https://github.com/user-attachments/assets/4e55bfd1-3ed8-4244-b6d2-27f521179b20" align="left" width="200px"/>
-[American Sign Language Identifier](https://github.com/Anisha-kk/American-Sign-Language-Classifier)
+<b>American Sign Language Identifier</b>
+<br>(https://github.com/Anisha-kk/American-Sign-Language-Classifier)
 <br>A multiclass image classification problem that identifies American Sign Language alphabet from images. 
 <br clear="left"/>
 <br>
 <img src="https://appinventiv.com/wp-content/uploads/2021/12/How-Machine-Learning-Helps-in-Financial-Fraud-Detection-in-the-FinTech-Industry-01-scaled.webp" align="left" width="200px"/>
-[Bank Transaction Analysis](https://github.com/Anisha-kk/Bank-Transaction-Data-Analysis.git)
+<b>Bank Transaction Analysis</b>
+<br>(https://github.com/Anisha-kk/Bank-Transaction-Data-Analysis.git)
 <br>This project analyses historical transaction data (simulated) to identify unusual patterns or anomalies that might indicate fraudulent activities. 
 <br clear="left"/>
 <br>
 <img src="https://www.omegahospitals.com/blog/storage/2024/01/blog_breast_cancer_11-e1705062587725.png" align="left" width="200px"/>
-[Breast Cancer Classification](https://github.com/Anisha-kk/Breast-cancer-data-analysis)
+<b>Breast Cancer Classification</b>
+<br>(https://github.com/Anisha-kk/Breast-cancer-data-analysis)
 <br>The project compares the performance of different classification algorithms on Scikit Learn Breast Cancer dataset. 
 <br clear="left"/>
 <br>
 <img src="https://pimwp.s3-accelerate.amazonaws.com/2022/06/influencermarketing.png" align="left" width="200px"/>
-[Influencer Marketing Analysis](https://github.com/Anisha-kk/Linear-Regression-and-ANOVA-testing-on-marketing-and-sales-data)
+<b>Influencer Marketing Analysis</b>
+<br>(https://github.com/Anisha-kk/Linear-Regression-and-ANOVA-testing-on-marketing-and-sales-data)
 <br>The project focuses on the use of influencer marketing, and exploring the relationship between marketing promotional budgets and sales. Linear regression is used here. 
 <br clear="left"/>
 <br>
 <img src="https://cdn.vectorstock.com/i/1000v/54/94/text-math-with-formula-border-background-vector-48965494.jpg" align="left" width="200px"/>
-[Student Math Score Calculator](https://github.com/Anisha-kk/End-To-End-Data-Science-Project)
+<b>Student Math Score Calculator</b>
+<br>(https://github.com/Anisha-kk/End-To-End-Data-Science-Project)
 <br>The project creates a REST API using Python and Flask to predict the Math Score of a Student.
 <br clear="left"/>
 <br>
 <img src="https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2023/11/06110959/aqi_mini-1200x675-1.png" align="left" width="200px"/>
-[Air Quality Index Data Analysis](https://github.com/Anisha-kk/Confidence-Interval-and-Hypothesis-testing-on-AQI-data)
+<b>Air Quality Index Data Analysis</b>
+<br>(https://github.com/Anisha-kk/Confidence-Interval-and-Hypothesis-testing-on-AQI-data)
 <br>This activity uses air quality index (AQI) data from the United States Environmental Protection Agency (EPA). Using Confidence intervals and hypothesis testing, this data is explored. 
 <br clear="left"/>
 <br>
 <img src="https://www.helloleads.io/blog/wp-content/uploads/2020/10/quit.png" align="left" width="200px"/>
-[Predicting Employee Attrition](https://github.com/Anisha-kk/Logistic-Regression-for-Salifort-Motors-HR-data)
+<b>Predicting Employee Attrition</b>
+<br>(https://github.com/Anisha-kk/Logistic-Regression-for-Salifort-Motors-HR-data)
 <br>The goal of this project is to use Logistic Regression to predict whether an employee will quit the fictious multinational vehicle manufacturing company called Salifort Motors. 
 <br clear="left"/>
 <br>
 <img src="https://www.zonkafeedback.com/hubfs/emotion%20detection.png" align="left" width="200px"/>
-[Emotion Detection from Text](https://github.com/Anisha-kk/Emotion-detection-from-text)
+<b>Emotion Detection from Text</b>
+<br>(https://github.com/Anisha-kk/Emotion-detection-from-text)
 <br>In this project, a text string is taken as input and the dominant emotion is given as the output. This project uses Python and Flask.
 <br clear="left"/>
 <br>
 <img src="https://eastgate-software.com/wp-content/uploads/2023/10/supervised-learning.png" align="left" width="200px" />
-[Supervised Machine Learning Algorithms Examples](https://github.com/Anisha-kk/Machine-Learning-Supervised-Learning-Algorithms-exampless)
+<b>Supervised Machine Learning Algorithms Examples</b>
+<br>(https://github.com/Anisha-kk/Machine-Learning-Supervised-Learning-Algorithms-exampless)
 <br clear="left"/>
 <br>
 <img src="https://miro.medium.com/v2/resize:fit:1200/1*rAyjSZrMxEo3hzzX_jQaxA.png" align="left" width="200px"/>
-[K-Means Clustering on Penguin Data](https://github.com/Anisha-kk/K-Means-clustering-on-Penguins-data)
+<b>K-Means Clustering on Penguin Data</b>
+<br>(https://github.com/Anisha-kk/K-Means-clustering-on-Penguins-data)
 <br>Using K Means clustering to group a dataset of penguins.
 <br clear="left"/>
 <br>
 <img src="https://miro.medium.com/v2/resize:fit:372/1*AO2rIhzRYzFVQlFLx9DM9A.png" align="left" width="200px"/>
-[Digit Classification](https://github.com/Anisha-kk/Digit-Classification)
-<br>This code explores digit classification using the MNIST dataset using Logistic Regression, Logistic regression + pca and neural network 
+<b>Digit Classification</b>
+<br>(https://github.com/Anisha-kk/Digit-Classification)
+<br>This code explores digit classification on the MNIST dataset using Logistic Regression, Logistic regression + pca and neural network 
 <br clear="left"/>
 <br>
 <img src="https://www.miquido.com/wp-content/uploads/2022/08/header-Top-8-market-research-methods-1920x1280.png" align="left" width="200px"/>
-[Sales Report using Power BI](https://github.com/Anisha-kk/Power-BI-visualizations)
+<b>Sales Report using Power BI</b>
+<br>(https://github.com/Anisha-kk/Power-BI-visualizations)
 <br>In this project, Power BI is used to create sales reports to perform various analyses for a fictious company.
 <br clear="left"/>
 <br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIW9FQYDgc9CjxgEE59kS-2qwO_OQ5Rfi5wg&s" align="left" width="200px"/>
-[Temperature Data Analysis](https://github.com/Anisha-kk/SQL-and-Tableau-Viz)
+<b>Temperature Data Analysis</b>
+<br>(https://github.com/Anisha-kk/SQL-and-Tableau-Viz)
 <br> An SQL and Tableau exercise made using average temperature data of Bengaluru city collected from 1990 - 2022.
 <br clear="left"/>
