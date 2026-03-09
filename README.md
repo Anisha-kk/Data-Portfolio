@@ -1,5 +1,11 @@
 # Data Science, Machine Learning, Deep Learning Projects
 <br>
+<img src="https://github.com/user-attachments/assets/2c41b4e4-0fff-41b4-b3ec-17229276b877" align="left" width="200px"/>
+<b>Document Image denoising</b> 
+<br>(https://github.com/Anisha-kk/Document-denoising)
+<br>Denoising document images using Autoencoders.
+<br clear="left"/>
+<br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRnXA2WkyzJezZsENoOPcQk_6YFUGlQsW-wg&s" align="left" width="200px"/>
 <b>Content based Book Recommendation System</b> 
 <br>(https://github.com/Anisha-kk/Book-Recommendation-System)
