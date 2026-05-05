@@ -1,5 +1,11 @@
 # Data Science, Machine Learning, Deep Learning Projects
 <br>
+<img src="https://cdn.paperpile.com/guides/img/content-analysis-illustr-400x400.png?v=654" align="left" width="200px"/>
+<b>Analysis of diffrerent techniques on CNN Classifier</b> 
+<br>(https://github.com/Anisha-kk/Analysis-of-different-variants-in-CNN-classifier)
+<br>A Comparative analysis of different techniques that can be applied on a CNN classifier.
+<br clear="left"/>
+<br>
 <img src="https://github.com/user-attachments/assets/2c41b4e4-0fff-41b4-b3ec-17229276b877" align="left" width="200px"/>
 <b>Document Image denoising</b> 
 <br>(https://github.com/Anisha-kk/Document-denoising)
