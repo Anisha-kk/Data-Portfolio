@@ -1,5 +1,11 @@
 # Data Science, Machine Learning, Deep Learning Projects
 <br>
+<img src="https://vskills.in/certification/blog/wp-content/uploads/2015/01/why-do-stock-prices-change-frequently.jpg" align="left" width="200px"/>
+<b>Analysis of Stock price</b> 
+<br>(https://github.com/Anisha-kk/Stock-price-analysis)
+<br>A study of stock price using supervised machine learning.
+<br clear="left"/>
+<br>
 <img src="https://cdn.paperpile.com/guides/img/content-analysis-illustr-400x400.png?v=654" align="left" width="200px"/>
 <b>Analysis of diffrerent techniques on CNN Classifier</b> 
 <br>(https://github.com/Anisha-kk/Analysis-of-different-variants-in-CNN-classifier)
