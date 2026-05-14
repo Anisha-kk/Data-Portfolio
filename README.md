@@ -78,7 +78,7 @@
 <br>In this project, a text string is taken as input and the dominant emotion is given as the output. This project uses Python and Flask.
 <br clear="left"/>
 <br>
-<img src="https://eastgate-software.com/wp-content/uploads/2023/10/supervised-learning.png" align="left" width="200px" />
+<img src="https://www.databricks.com/sites/default/files/inline-images/Supervised-Learning-Diagram_0.png" align="left" width="200px" />
 <b>Supervised Machine Learning Algorithms Examples</b>
 <br>(https://github.com/Anisha-kk/Machine-Learning-Supervised-Learning-Algorithms-exampless)
 <br clear="left"/>
