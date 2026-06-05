@@ -1,5 +1,11 @@
 # Data Science, Machine Learning, Deep Learning Projects
 <br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlAa1Tf7o3jPkFWv_qZdnwwxby7RhaxE7afA&s" align="left" width="200px"/>
+<b>Indian Currency Recognizer</b> 
+<br>(https://github.com/Anisha-kk/Indian-Currency-Recognizer)
+<br>This project creates a classifier model that recognizes Indian currency notes from images.
+<br clear="left"/>
+<br>
 <img src="https://vskills.in/certification/blog/wp-content/uploads/2015/01/why-do-stock-prices-change-frequently.jpg" align="left" width="200px"/>
 <b>Analysis of Stock price</b> 
 <br>(https://github.com/Anisha-kk/Stock-price-analysis)
