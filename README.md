@@ -1,5 +1,11 @@
 # Data Science, Machine Learning, Deep Learning Projects
 <br>
+<img src="https://github.com/user-attachments/assets/70ab8161-b0a3-4d6d-a382-dc79ae65c276" align="left" width="200px"/>
+<b>AI/ML Research Knowledge Explorer</b> 
+<br>(https://github.com/Anisha-kk/Research-Knowledge-Explorer)
+<br>This project builds a Retrieval-Augmented Generation (RAG) system that enables exploring AI/ML research papers through a chat-based interface.
+<br clear="left"/>
+<br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlAa1Tf7o3jPkFWv_qZdnwwxby7RhaxE7afA&s" align="left" width="200px"/>
 <b>Indian Currency Recognizer</b> 
 <br>(https://github.com/Anisha-kk/Indian-Currency-Recognizer)
