@@ -1,5 +1,11 @@
 # Data Science, Machine Learning, Deep Learning Projects
 <br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2-bmziRy2Xc7eL-pL7P2PLnkQH5zY9DAI8bdZcC6iw&s=10" align="left" width="200px"/>
+<b>UPI Fraud Transaction Detection System</b> 
+<br>(https://github.com/Anisha-kk/UPI-Fraud-Detection-System)
+<br>An end-to-end MLOps project for detecting fraudulent UPI transactions.
+<br clear="left"/>
+<br>
 <img src="https://github.com/user-attachments/assets/70ab8161-b0a3-4d6d-a382-dc79ae65c276" align="left" width="200px"/>
 <b>AI/ML Research Knowledge Explorer</b> 
 <br>(https://github.com/Anisha-kk/Research-Knowledge-Explorer)
